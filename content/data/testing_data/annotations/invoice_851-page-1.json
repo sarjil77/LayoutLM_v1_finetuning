@@ -1,0 +1,4510 @@
+{
+    "form": [
+        {
+            "text": "",
+            "box": [
+                499,
+                102,
+                777,
+                155
+            ],
+            "label": "invoice_number",
+            "words": [
+                {
+                    "text": "28807915",
+                    "box": [
+                        510,
+                        111,
+                        770,
+                        148
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 0
+        },
+        {
+            "text": "06/10/2020",
+            "box": [
+                1146,
+                200,
+                1418,
+                256
+            ],
+            "label": "invoice_date",
+            "words": [
+                {
+                    "text": "06/10/2020",
+                    "box": [
+                        1159,
+                        209,
+                        1407,
+                        246
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 1
+        },
+        {
+            "text": "Dixon-Thompson",
+            "box": [
+                1196,
+                726,
+                1558,
+                774
+            ],
+            "label": "client_name",
+            "words": [
+                {
+                    "text": "Dixon-Thompson",
+                    "box": [
+                        1206,
+                        735,
+                        1538,
+                        774
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 2
+        },
+        {
+            "text": "301 Gardner Cliff\nJosephview, MS 68973",
+            "box": [
+                1196,
+                774,
+                1668,
+                892
+            ],
+            "label": "client_address",
+            "words": [
+                {
+                    "text": "301",
+                    "box": [
+                        1205,
+                        787,
+                        1275,
+                        818
+                    ]
+                },
+                {
+                    "text": "Gardner",
+                    "box": [
+                        1294,
+                        786,
+                        1455,
+                        818
+                    ]
+                },
+                {
+                    "text": "Cliff",
+                    "box": [
+                        1470,
+                        786,
+                        1547,
+                        818
+                    ]
+                },
+                {
+                    "text": "Josephview,",
+                    "box": [
+                        1200,
+                        837,
+                        1436,
+                        876
+                    ]
+                },
+                {
+                    "text": "MS",
+                    "box": [
+                        1456,
+                        838,
+                        1510,
+                        869
+                    ]
+                },
+                {
+                    "text": "68973",
+                    "box": [
+                        1527,
+                        838,
+                        1649,
+                        869
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 3
+        },
+        {
+            "text": "904-95-4664",
+            "box": [
+                1344,
+                930,
+                1622,
+                982
+            ],
+            "label": "client_tax_id",
+            "words": [
+                {
+                    "text": "904-95-4664",
+                    "box": [
+                        1353,
+                        941,
+                        1606,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 4
+        },
+        {
+            "text": "Lucas-Hall",
+            "box": [
+                192,
+                724,
+                430,
+                780
+            ],
+            "label": "seller_name",
+            "words": [
+                {
+                    "text": "Lucas-Hall",
+                    "box": [
+                        208,
+                        735,
+                        406,
+                        767
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 5
+        },
+        {
+            "text": "426 Teresa Inlet\nSnyderside, CT 46654",
+            "box": [
+                190,
+                782,
+                666,
+                884
+            ],
+            "label": "seller_address",
+            "words": [
+                {
+                    "text": "426",
+                    "box": [
+                        206,
+                        787,
+                        278,
+                        818
+                    ]
+                },
+                {
+                    "text": "Teresa",
+                    "box": [
+                        293,
+                        787,
+                        425,
+                        818
+                    ]
+                },
+                {
+                    "text": "Inlet",
+                    "box": [
+                        445,
+                        786,
+                        529,
+                        818
+                    ]
+                },
+                {
+                    "text": "Snyderside,",
+                    "box": [
+                        207,
+                        837,
+                        436,
+                        876
+                    ]
+                },
+                {
+                    "text": "CT",
+                    "box": [
+                        454,
+                        838,
+                        505,
+                        869
+                    ]
+                },
+                {
+                    "text": "46654",
+                    "box": [
+                        519,
+                        838,
+                        642,
+                        869
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 6
+        },
+        {
+            "text": "914-81-8588",
+            "box": [
+                346,
+                926,
+                620,
+                982
+            ],
+            "label": "seller_tax_id",
+            "words": [
+                {
+                    "text": "914-81-8588",
+                    "box": [
+                        355,
+                        941,
+                        608,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 7
+        },
+        {
+            "text": "GBO6ANRX72033981145652",
+            "box": [
+                320,
+                986,
+                918,
+                1036
+            ],
+            "label": "iban",
+            "words": [
+                {
+                    "text": "GBO6ANRX72033981145652",
+                    "box": [
+                        329,
+                        992,
+                        901,
+                        1023
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 8
+        },
+        {
+            "text": "Invoice",
+            "box": [
+                197,
+                110,
+                384,
+                148
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Invoice",
+                    "box": [
+                        197,
+                        110,
+                        384,
+                        148
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 9
+        },
+        {
+            "text": "no:",
+            "box": [
+                407,
+                120,
+                484,
+                148
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "no:",
+                    "box": [
+                        407,
+                        120,
+                        484,
+                        148
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 10
+        },
+        {
+            "text": "Date",
+            "box": [
+                197,
+                210,
+                296,
+                243
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Date",
+                    "box": [
+                        197,
+                        210,
+                        296,
+                        243
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 11
+        },
+        {
+            "text": "of",
+            "box": [
+                314,
+                208,
+                355,
+                243
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "of",
+                    "box": [
+                        314,
+                        208,
+                        355,
+                        243
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 12
+        },
+        {
+            "text": "issue:",
+            "box": [
+                372,
+                208,
+                491,
+                243
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "issue:",
+                    "box": [
+                        372,
+                        208,
+                        491,
+                        243
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 13
+        },
+        {
+            "text": "Seller:",
+            "box": [
+                196,
+                643,
+                363,
+                681
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Seller:",
+                    "box": [
+                        196,
+                        643,
+                        363,
+                        681
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 14
+        },
+        {
+            "text": "Tax",
+            "box": [
+                204,
+                942,
+                275,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Tax",
+                    "box": [
+                        204,
+                        942,
+                        275,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 15
+        },
+        {
+            "text": "Id:",
+            "box": [
+                293,
+                940,
+                335,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Id:",
+                    "box": [
+                        293,
+                        940,
+                        335,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 16
+        },
+        {
+            "text": "IBAN:",
+            "box": [
+                208,
+                992,
+                310,
+                1022
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "IBAN:",
+                    "box": [
+                        208,
+                        992,
+                        310,
+                        1022
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 17
+        },
+        {
+            "text": "ITEMS",
+            "box": [
+                197,
+                1100,
+                355,
+                1137
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "ITEMS",
+                    "box": [
+                        197,
+                        1100,
+                        355,
+                        1137
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 18
+        },
+        {
+            "text": "No.",
+            "box": [
+                233,
+                1223,
+                288,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "No.",
+                    "box": [
+                        233,
+                        1223,
+                        288,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 19
+        },
+        {
+            "text": "Description",
+            "box": [
+                348,
+                1222,
+                550,
+                1254
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Description",
+                    "box": [
+                        348,
+                        1222,
+                        550,
+                        1254
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 20
+        },
+        {
+            "text": "1.",
+            "box": [
+                249,
+                1349,
+                273,
+                1373
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1.",
+                    "box": [
+                        249,
+                        1349,
+                        273,
+                        1373
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 21
+        },
+        {
+            "text": "Nintendo",
+            "box": [
+                349,
+                1348,
+                490,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Nintendo",
+                    "box": [
+                        349,
+                        1348,
+                        490,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 22
+        },
+        {
+            "text": "Wii",
+            "box": [
+                502,
+                1348,
+                548,
+                1373
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Wii",
+                    "box": [
+                        502,
+                        1348,
+                        548,
+                        1373
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 23
+        },
+        {
+            "text": "Console",
+            "box": [
+                563,
+                1348,
+                686,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Console",
+                    "box": [
+                        563,
+                        1348,
+                        686,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 24
+        },
+        {
+            "text": "RVL-001",
+            "box": [
+                701,
+                1349,
+                830,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "RVL-001",
+                    "box": [
+                        701,
+                        1349,
+                        830,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 25
+        },
+        {
+            "text": "Complete",
+            "box": [
+                347,
+                1388,
+                498,
+                1420
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Complete",
+                    "box": [
+                        347,
+                        1388,
+                        498,
+                        1420
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 26
+        },
+        {
+            "text": "Hookups",
+            "box": [
+                513,
+                1388,
+                648,
+                1420
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Hookups",
+                    "box": [
+                        513,
+                        1388,
+                        648,
+                        1420
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 27
+        },
+        {
+            "text": "W/",
+            "box": [
+                660,
+                1389,
+                701,
+                1416
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "W/",
+                    "box": [
+                        660,
+                        1389,
+                        701,
+                        1416
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 28
+        },
+        {
+            "text": "Mario&Sonic;",
+            "box": [
+                349,
+                1428,
+                553,
+                1457
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Mario&Sonic;",
+                    "box": [
+                        349,
+                        1428,
+                        553,
+                        1457
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 29
+        },
+        {
+            "text": "Tested",
+            "box": [
+                567,
+                1428,
+                673,
+                1454
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Tested",
+                    "box": [
+                        567,
+                        1428,
+                        673,
+                        1454
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 30
+        },
+        {
+            "text": "/",
+            "box": [
+                686,
+                1429,
+                696,
+                1456
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "/",
+                    "box": [
+                        686,
+                        1429,
+                        696,
+                        1456
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 31
+        },
+        {
+            "text": "Working",
+            "box": [
+                708,
+                1428,
+                836,
+                1460
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Working",
+                    "box": [
+                        708,
+                        1428,
+                        836,
+                        1460
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 32
+        },
+        {
+            "text": "2.",
+            "box": [
+                248,
+                1514,
+                272,
+                1538
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2.",
+                    "box": [
+                        248,
+                        1514,
+                        272,
+                        1538
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 33
+        },
+        {
+            "text": "Anbernic",
+            "box": [
+                346,
+                1513,
+                486,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Anbernic",
+                    "box": [
+                        346,
+                        1513,
+                        486,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 34
+        },
+        {
+            "text": "Retro",
+            "box": [
+                501,
+                1514,
+                584,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Retro",
+                    "box": [
+                        501,
+                        1514,
+                        584,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 35
+        },
+        {
+            "text": "Games",
+            "box": [
+                597,
+                1514,
+                706,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Games",
+                    "box": [
+                        597,
+                        1514,
+                        706,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 36
+        },
+        {
+            "text": "500",
+            "box": [
+                720,
+                1514,
+                776,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "500",
+                    "box": [
+                        720,
+                        1514,
+                        776,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 37
+        },
+        {
+            "text": "in",
+            "box": [
+                792,
+                1513,
+                815,
+                1538
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "in",
+                    "box": [
+                        792,
+                        1513,
+                        815,
+                        1538
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 38
+        },
+        {
+            "text": "1",
+            "box": [
+                831,
+                1514,
+                845,
+                1538
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1",
+                    "box": [
+                        831,
+                        1514,
+                        845,
+                        1538
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 39
+        },
+        {
+            "text": "8",
+            "box": [
+                348,
+                1554,
+                364,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "8",
+                    "box": [
+                        348,
+                        1554,
+                        364,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 40
+        },
+        {
+            "text": "Bit",
+            "box": [
+                379,
+                1553,
+                419,
+                1578
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Bit",
+                    "box": [
+                        379,
+                        1553,
+                        419,
+                        1578
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 41
+        },
+        {
+            "text": "Classic",
+            "box": [
+                431,
+                1553,
+                538,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Classic",
+                    "box": [
+                        431,
+                        1553,
+                        538,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 42
+        },
+        {
+            "text": "Video",
+            "box": [
+                551,
+                1553,
+                639,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Video",
+                    "box": [
+                        551,
+                        1553,
+                        639,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 43
+        },
+        {
+            "text": "Game",
+            "box": [
+                653,
+                1554,
+                745,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Game",
+                    "box": [
+                        653,
+                        1554,
+                        745,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 44
+        },
+        {
+            "text": "Console",
+            "box": [
+                347,
+                1593,
+                471,
+                1619
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Console",
+                    "box": [
+                        347,
+                        1593,
+                        471,
+                        1619
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 45
+        },
+        {
+            "text": "Handheld",
+            "box": [
+                486,
+                1593,
+                634,
+                1619
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Handheld",
+                    "box": [
+                        486,
+                        1593,
+                        634,
+                        1619
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 46
+        },
+        {
+            "text": "Player",
+            "box": [
+                649,
+                1593,
+                746,
+                1625
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Player",
+                    "box": [
+                        649,
+                        1593,
+                        746,
+                        1625
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 47
+        },
+        {
+            "text": "BF",
+            "box": [
+                248,
+                1679,
+                272,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "BF",
+                    "box": [
+                        248,
+                        1679,
+                        272,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 48
+        },
+        {
+            "text": "Nintendo",
+            "box": [
+                349,
+                1678,
+                490,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Nintendo",
+                    "box": [
+                        349,
+                        1678,
+                        490,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 49
+        },
+        {
+            "text": "Wii",
+            "box": [
+                503,
+                1678,
+                548,
+                1703
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Wii",
+                    "box": [
+                        503,
+                        1678,
+                        548,
+                        1703
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 50
+        },
+        {
+            "text": "White",
+            "box": [
+                562,
+                1678,
+                652,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "White",
+                    "box": [
+                        562,
+                        1678,
+                        652,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 51
+        },
+        {
+            "text": "Console",
+            "box": [
+                666,
+                1678,
+                790,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Console",
+                    "box": [
+                        666,
+                        1678,
+                        790,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 52
+        },
+        {
+            "text": "RVL-001",
+            "box": [
+                349,
+                1719,
+                478,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "RVL-001",
+                    "box": [
+                        349,
+                        1719,
+                        478,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 53
+        },
+        {
+            "text": "Bundle",
+            "box": [
+                493,
+                1718,
+                600,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Bundle",
+                    "box": [
+                        493,
+                        1718,
+                        600,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 54
+        },
+        {
+            "text": "Game",
+            "box": [
+                614,
+                1719,
+                706,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Game",
+                    "box": [
+                        614,
+                        1719,
+                        706,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 55
+        },
+        {
+            "text": "Cube",
+            "box": [
+                719,
+                1718,
+                798,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Cube",
+                    "box": [
+                        719,
+                        1718,
+                        798,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 56
+        },
+        {
+            "text": "Compatible",
+            "box": [
+                347,
+                1758,
+                528,
+                1790
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Compatible",
+                    "box": [
+                        347,
+                        1758,
+                        528,
+                        1790
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 57
+        },
+        {
+            "text": "Controllers",
+            "box": [
+                541,
+                1758,
+                713,
+                1784
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Controllers",
+                    "box": [
+                        541,
+                        1758,
+                        713,
+                        1784
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 58
+        },
+        {
+            "text": "senso",
+            "box": [
+                726,
+                1765,
+                815,
+                1784
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "senso",
+                    "box": [
+                        726,
+                        1765,
+                        815,
+                        1784
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 59
+        },
+        {
+            "text": "4.",
+            "box": [
+                232,
+                1840,
+                272,
+                1881
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4.",
+                    "box": [
+                        232,
+                        1840,
+                        272,
+                        1881
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 60
+        },
+        {
+            "text": "Sega",
+            "box": [
+                348,
+                1845,
+                423,
+                1876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sega",
+                    "box": [
+                        348,
+                        1845,
+                        423,
+                        1876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 61
+        },
+        {
+            "text": "Game",
+            "box": [
+                437,
+                1845,
+                529,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Game",
+                    "box": [
+                        437,
+                        1845,
+                        529,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 62
+        },
+        {
+            "text": "Gear",
+            "box": [
+                543,
+                1845,
+                619,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gear",
+                    "box": [
+                        543,
+                        1845,
+                        619,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 63
+        },
+        {
+            "text": "Micro",
+            "box": [
+                632,
+                1844,
+                714,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Micro",
+                    "box": [
+                        632,
+                        1844,
+                        714,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 64
+        },
+        {
+            "text": "console",
+            "box": [
+                727,
+                1844,
+                846,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "console",
+                    "box": [
+                        727,
+                        1844,
+                        846,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 65
+        },
+        {
+            "text": "4",
+            "box": [
+                347,
+                1885,
+                364,
+                1909
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4",
+                    "box": [
+                        347,
+                        1885,
+                        364,
+                        1909
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 66
+        },
+        {
+            "text": "color",
+            "box": [
+                378,
+                1884,
+                455,
+                1910
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "color",
+                    "box": [
+                        378,
+                        1884,
+                        455,
+                        1910
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 67
+        },
+        {
+            "text": "complete",
+            "box": [
+                467,
+                1884,
+                613,
+                1916
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "complete",
+                    "box": [
+                        467,
+                        1884,
+                        613,
+                        1916
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 68
+        },
+        {
+            "text": "set",
+            "box": [
+                626,
+                1886,
+                673,
+                1910
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "set",
+                    "box": [
+                        626,
+                        1886,
+                        673,
+                        1910
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 69
+        },
+        {
+            "text": "30th",
+            "box": [
+                686,
+                1884,
+                755,
+                1910
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "30th",
+                    "box": [
+                        686,
+                        1884,
+                        755,
+                        1910
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 70
+        },
+        {
+            "text": "Anniversary",
+            "box": [
+                346,
+                1924,
+                536,
+                1956
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Anniversary",
+                    "box": [
+                        346,
+                        1924,
+                        536,
+                        1956
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 71
+        },
+        {
+            "text": "GG",
+            "box": [
+                549,
+                1925,
+                594,
+                1950
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "GG",
+                    "box": [
+                        549,
+                        1925,
+                        594,
+                        1950
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 72
+        },
+        {
+            "text": "w/window",
+            "box": [
+                608,
+                1924,
+                764,
+                1952
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "w/window",
+                    "box": [
+                        608,
+                        1924,
+                        764,
+                        1952
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 73
+        },
+        {
+            "text": "5.",
+            "box": [
+                248,
+                2010,
+                273,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5.",
+                    "box": [
+                        248,
+                        2010,
+                        273,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 74
+        },
+        {
+            "text": "Microsoft",
+            "box": [
+                349,
+                2009,
+                492,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Microsoft",
+                    "box": [
+                        349,
+                        2009,
+                        492,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 75
+        },
+        {
+            "text": "Xbox",
+            "box": [
+                504,
+                2009,
+                582,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Xbox",
+                    "box": [
+                        504,
+                        2009,
+                        582,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 76
+        },
+        {
+            "text": "One",
+            "box": [
+                595,
+                2010,
+                657,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "One",
+                    "box": [
+                        595,
+                        2010,
+                        657,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 77
+        },
+        {
+            "text": "X",
+            "box": [
+                670,
+                2010,
+                690,
+                2034
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "X",
+                    "box": [
+                        670,
+                        2010,
+                        690,
+                        2034
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 78
+        },
+        {
+            "text": "1TB",
+            "box": [
+                704,
+                2010,
+                760,
+                2034
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1TB",
+                    "box": [
+                        704,
+                        2010,
+                        760,
+                        2034
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 79
+        },
+        {
+            "text": "4k",
+            "box": [
+                774,
+                2009,
+                812,
+                2034
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4k",
+                    "box": [
+                        774,
+                        2009,
+                        812,
+                        2034
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 80
+        },
+        {
+            "text": "Ultra",
+            "box": [
+                348,
+                2049,
+                421,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Ultra",
+                    "box": [
+                        348,
+                        2049,
+                        421,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 81
+        },
+        {
+            "text": "HD",
+            "box": [
+                437,
+                2050,
+                481,
+                2074
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "HD",
+                    "box": [
+                        437,
+                        2050,
+                        481,
+                        2074
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 82
+        },
+        {
+            "text": "Console",
+            "box": [
+                494,
+                2049,
+                618,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Console",
+                    "box": [
+                        494,
+                        2049,
+                        618,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 83
+        },
+        {
+            "text": "black",
+            "box": [
+                632,
+                2049,
+                714,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "black",
+                    "box": [
+                        632,
+                        2049,
+                        714,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 84
+        },
+        {
+            "text": "controller",
+            "box": [
+                347,
+                2089,
+                499,
+                2115
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "controller",
+                    "box": [
+                        347,
+                        2089,
+                        499,
+                        2115
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 85
+        },
+        {
+            "text": "works",
+            "box": [
+                511,
+                2089,
+                602,
+                2115
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "works",
+                    "box": [
+                        511,
+                        2089,
+                        602,
+                        2115
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 86
+        },
+        {
+            "text": "great",
+            "box": [
+                615,
+                2091,
+                698,
+                2121
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "great",
+                    "box": [
+                        615,
+                        2091,
+                        698,
+                        2121
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 87
+        },
+        {
+            "text": "1787",
+            "box": [
+                712,
+                2090,
+                788,
+                2115
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1787",
+                    "box": [
+                        712,
+                        2090,
+                        788,
+                        2115
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 88
+        },
+        {
+            "text": "6.",
+            "box": [
+                247,
+                2176,
+                273,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "6.",
+                    "box": [
+                        247,
+                        2176,
+                        273,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 89
+        },
+        {
+            "text": "Nintendo",
+            "box": [
+                349,
+                2175,
+                490,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Nintendo",
+                    "box": [
+                        349,
+                        2175,
+                        490,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 90
+        },
+        {
+            "text": "Switch",
+            "box": [
+                503,
+                2175,
+                604,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Switch",
+                    "box": [
+                        503,
+                        2175,
+                        604,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 91
+        },
+        {
+            "text": "32",
+            "box": [
+                620,
+                2176,
+                655,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "32",
+                    "box": [
+                        620,
+                        2176,
+                        655,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 92
+        },
+        {
+            "text": "GB",
+            "box": [
+                670,
+                2176,
+                713,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "GB",
+                    "box": [
+                        670,
+                        2176,
+                        713,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 93
+        },
+        {
+            "text": "Black",
+            "box": [
+                728,
+                2175,
+                811,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Black",
+                    "box": [
+                        728,
+                        2175,
+                        811,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 94
+        },
+        {
+            "text": "-",
+            "box": [
+                823,
+                2190,
+                832,
+                2193
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "-",
+                    "box": [
+                        823,
+                        2190,
+                        832,
+                        2193
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 95
+        },
+        {
+            "text": "Console",
+            "box": [
+                347,
+                2215,
+                471,
+                2241
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Console",
+                    "box": [
+                        347,
+                        2215,
+                        471,
+                        2241
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 96
+        },
+        {
+            "text": "Only",
+            "box": [
+                485,
+                2215,
+                555,
+                2247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Only",
+                    "box": [
+                        485,
+                        2215,
+                        555,
+                        2247
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 97
+        },
+        {
+            "text": "-",
+            "box": [
+                568,
+                2230,
+                576,
+                2233
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "-",
+                    "box": [
+                        568,
+                        2230,
+                        576,
+                        2233
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 98
+        },
+        {
+            "text": "Works",
+            "box": [
+                589,
+                2215,
+                686,
+                2241
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Works",
+                    "box": [
+                        589,
+                        2215,
+                        686,
+                        2241
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 99
+        },
+        {
+            "text": "Perfect",
+            "box": [
+                701,
+                2215,
+                810,
+                2241
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Perfect",
+                    "box": [
+                        701,
+                        2215,
+                        810,
+                        2241
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 100
+        },
+        {
+            "text": "Fast",
+            "box": [
+                349,
+                2256,
+                412,
+                2281
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Fast",
+                    "box": [
+                        349,
+                        2256,
+                        412,
+                        2281
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 101
+        },
+        {
+            "text": "Shipping!",
+            "box": [
+                425,
+                2255,
+                571,
+                2287
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Shipping!",
+                    "box": [
+                        425,
+                        2255,
+                        571,
+                        2287
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 102
+        },
+        {
+            "text": "7.",
+            "box": [
+                248,
+                2341,
+                273,
+                2365
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "7.",
+                    "box": [
+                        248,
+                        2341,
+                        273,
+                        2365
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 103
+        },
+        {
+            "text": "B397",
+            "box": [
+                349,
+                2341,
+                426,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "B397",
+                    "box": [
+                        349,
+                        2341,
+                        426,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 104
+        },
+        {
+            "text": "Nintendo",
+            "box": [
+                442,
+                2340,
+                583,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Nintendo",
+                    "box": [
+                        442,
+                        2340,
+                        583,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 105
+        },
+        {
+            "text": "DSi",
+            "box": [
+                598,
+                2340,
+                646,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "DSi",
+                    "box": [
+                        598,
+                        2340,
+                        646,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 106
+        },
+        {
+            "text": "console",
+            "box": [
+                660,
+                2340,
+                779,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "console",
+                    "box": [
+                        660,
+                        2340,
+                        779,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 107
+        },
+        {
+            "text": "Red",
+            "box": [
+                794,
+                2340,
+                850,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Red",
+                    "box": [
+                        794,
+                        2340,
+                        850,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 108
+        },
+        {
+            "text": "Japan",
+            "box": [
+                344,
+                2381,
+                432,
+                2412
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Japan",
+                    "box": [
+                        344,
+                        2381,
+                        432,
+                        2412
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 109
+        },
+        {
+            "text": "NDS",
+            "box": [
+                448,
+                2381,
+                512,
+                2406
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "NDS",
+                    "box": [
+                        448,
+                        2381,
+                        512,
+                        2406
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 110
+        },
+        {
+            "text": "x",
+            "box": [
+                525,
+                2387,
+                542,
+                2405
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "x",
+                    "box": [
+                        525,
+                        2387,
+                        542,
+                        2405
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 111
+        },
+        {
+            "text": "SUMMARY",
+            "box": [
+                196,
+                2513,
+                471,
+                2550
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "SUMMARY",
+                    "box": [
+                        196,
+                        2513,
+                        471,
+                        2550
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 112
+        },
+        {
+            "text": "Total",
+            "box": [
+                725,
+                2806,
+                814,
+                2832
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Total",
+                    "box": [
+                        725,
+                        2806,
+                        814,
+                        2832
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 113
+        },
+        {
+            "text": "Qty",
+            "box": [
+                982,
+                1223,
+                1043,
+                1254
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Qty",
+                    "box": [
+                        982,
+                        1223,
+                        1043,
+                        1254
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 114
+        },
+        {
+            "text": "2,00",
+            "box": [
+                974,
+                1349,
+                1041,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2,00",
+                    "box": [
+                        974,
+                        1349,
+                        1041,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 115
+        },
+        {
+            "text": "4,00",
+            "box": [
+                973,
+                1514,
+                1041,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4,00",
+                    "box": [
+                        973,
+                        1514,
+                        1041,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 116
+        },
+        {
+            "text": "5,00",
+            "box": [
+                974,
+                1679,
+                1041,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5,00",
+                    "box": [
+                        974,
+                        1679,
+                        1041,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 117
+        },
+        {
+            "text": "2,00",
+            "box": [
+                974,
+                1845,
+                1041,
+                1873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2,00",
+                    "box": [
+                        974,
+                        1845,
+                        1041,
+                        1873
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 118
+        },
+        {
+            "text": "5,00",
+            "box": [
+                974,
+                2010,
+                1041,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5,00",
+                    "box": [
+                        974,
+                        2010,
+                        1041,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 119
+        },
+        {
+            "text": "1,00",
+            "box": [
+                975,
+                2176,
+                1041,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1,00",
+                    "box": [
+                        975,
+                        2176,
+                        1041,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 120
+        },
+        {
+            "text": "2,00",
+            "box": [
+                974,
+                2341,
+                1041,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2,00",
+                    "box": [
+                        974,
+                        2341,
+                        1041,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 121
+        },
+        {
+            "text": "VAT",
+            "box": [
+                926,
+                2636,
+                997,
+                2660
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        926,
+                        2636,
+                        997,
+                        2660
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 122
+        },
+        {
+            "text": "[%]",
+            "box": [
+                1011,
+                2635,
+                1067,
+                2664
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "[%]",
+                    "box": [
+                        1011,
+                        2635,
+                        1067,
+                        2664
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 123
+        },
+        {
+            "text": "10%",
+            "box": [
+                966,
+                2722,
+                1032,
+                2747
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        966,
+                        2722,
+                        1032,
+                        2747
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 124
+        },
+        {
+            "text": "UM",
+            "box": [
+                1125,
+                1223,
+                1177,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "UM",
+                    "box": [
+                        1125,
+                        1223,
+                        1177,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 125
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1348,
+                1187,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1348,
+                        1187,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 126
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1513,
+                1187,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1513,
+                        1187,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 127
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1678,
+                1187,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1678,
+                        1187,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 128
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1844,
+                1187,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1844,
+                        1187,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 129
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                2009,
+                1187,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        2009,
+                        1187,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 130
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                2175,
+                1187,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        2175,
+                        1187,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 131
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                2340,
+                1187,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        2340,
+                        1187,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 132
+        },
+        {
+            "text": "Client:",
+            "box": [
+                1193,
+                643,
+                1363,
+                681
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Client:",
+                    "box": [
+                        1193,
+                        643,
+                        1363,
+                        681
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 133
+        },
+        {
+            "text": "Tax",
+            "box": [
+                1202,
+                942,
+                1273,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Tax",
+                    "box": [
+                        1202,
+                        942,
+                        1273,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 134
+        },
+        {
+            "text": "Id:",
+            "box": [
+                1291,
+                940,
+                1334,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Id:",
+                    "box": [
+                        1291,
+                        940,
+                        1334,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 135
+        },
+        {
+            "text": "Net",
+            "box": [
+                1300,
+                1223,
+                1361,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Net",
+                    "box": [
+                        1300,
+                        1223,
+                        1361,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 136
+        },
+        {
+            "text": "price",
+            "box": [
+                1375,
+                1222,
+                1462,
+                1254
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "price",
+                    "box": [
+                        1375,
+                        1222,
+                        1462,
+                        1254
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 137
+        },
+        {
+            "text": "78,88",
+            "box": [
+                1374,
+                1349,
+                1461,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "78,88",
+                    "box": [
+                        1374,
+                        1349,
+                        1461,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 138
+        },
+        {
+            "text": "1,25",
+            "box": [
+                1395,
+                1514,
+                1460,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1,25",
+                    "box": [
+                        1395,
+                        1514,
+                        1460,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 139
+        },
+        {
+            "text": "99,99",
+            "box": [
+                1373,
+                1679,
+                1461,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "99,99",
+                    "box": [
+                        1373,
+                        1679,
+                        1461,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 140
+        },
+        {
+            "text": "249,98",
+            "box": [
+                1353,
+                1845,
+                1461,
+                1873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "249,98",
+                    "box": [
+                        1353,
+                        1845,
+                        1461,
+                        1873
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 141
+        },
+        {
+            "text": "249,00",
+            "box": [
+                1353,
+                2010,
+                1461,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "249,00",
+                    "box": [
+                        1353,
+                        2010,
+                        1461,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 142
+        },
+        {
+            "text": "179,99",
+            "box": [
+                1354,
+                2176,
+                1461,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "179,99",
+                    "box": [
+                        1354,
+                        2176,
+                        1461,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 143
+        },
+        {
+            "text": "6,99",
+            "box": [
+                1394,
+                2341,
+                1461,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "6,99",
+                    "box": [
+                        1394,
+                        2341,
+                        1461,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 144
+        },
+        {
+            "text": "Net",
+            "box": [
+                1342,
+                2636,
+                1403,
+                2661
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Net",
+                    "box": [
+                        1342,
+                        2636,
+                        1403,
+                        2661
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 145
+        },
+        {
+            "text": "worth",
+            "box": [
+                1416,
+                2635,
+                1517,
+                2661
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        1416,
+                        2635,
+                        1517,
+                        2661
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 146
+        },
+        {
+            "text": "2",
+            "box": [
+                1380,
+                2722,
+                1395,
+                2746
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        1380,
+                        2722,
+                        1395,
+                        2746
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 147
+        },
+        {
+            "text": "601,64",
+            "box": [
+                1410,
+                2722,
+                1518,
+                2750
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "601,64",
+                    "box": [
+                        1410,
+                        2722,
+                        1518,
+                        2750
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 148
+        },
+        {
+            "text": "$",
+            "box": [
+                1332,
+                2806,
+                1350,
+                2836
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        1332,
+                        2806,
+                        1350,
+                        2836
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 149
+        },
+        {
+            "text": "2",
+            "box": [
+                1365,
+                2807,
+                1382,
+                2831
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        1365,
+                        2807,
+                        1382,
+                        2831
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 150
+        },
+        {
+            "text": "601,64",
+            "box": [
+                1398,
+                2807,
+                1518,
+                2836
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "601,64",
+                    "box": [
+                        1398,
+                        2807,
+                        1518,
+                        2836
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 151
+        },
+        {
+            "text": "Net",
+            "box": [
+                1529,
+                1223,
+                1590,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Net",
+                    "box": [
+                        1529,
+                        1223,
+                        1590,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 152
+        },
+        {
+            "text": "worth",
+            "box": [
+                1603,
+                1222,
+                1704,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        1603,
+                        1222,
+                        1704,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 153
+        },
+        {
+            "text": "VAT",
+            "box": [
+                1773,
+                1223,
+                1844,
+                1247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        1773,
+                        1223,
+                        1844,
+                        1247
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 154
+        },
+        {
+            "text": "[%]",
+            "box": [
+                1858,
+                1222,
+                1914,
+                1251
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "[%]",
+                    "box": [
+                        1858,
+                        1222,
+                        1914,
+                        1251
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 155
+        },
+        {
+            "text": "157,76",
+            "box": [
+                1598,
+                1349,
+                1705,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "157,76",
+                    "box": [
+                        1598,
+                        1349,
+                        1705,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 156
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1349,
+                1915,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1349,
+                        1915,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 157
+        },
+        {
+            "text": "5,00",
+            "box": [
+                1638,
+                1514,
+                1705,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5,00",
+                    "box": [
+                        1638,
+                        1514,
+                        1705,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 158
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1514,
+                1915,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1514,
+                        1915,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 159
+        },
+        {
+            "text": "499,95",
+            "box": [
+                1596,
+                1679,
+                1704,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "499,95",
+                    "box": [
+                        1596,
+                        1679,
+                        1704,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 160
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1679,
+                1915,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1679,
+                        1915,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 161
+        },
+        {
+            "text": "499,96",
+            "box": [
+                1596,
+                1840,
+                1705,
+                1882
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "499,96",
+                    "box": [
+                        1596,
+                        1840,
+                        1705,
+                        1882
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 162
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1845,
+                1915,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1845,
+                        1915,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 163
+        },
+        {
+            "text": "1",
+            "box": [
+                1568,
+                2010,
+                1582,
+                2034
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1",
+                    "box": [
+                        1568,
+                        2010,
+                        1582,
+                        2034
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 164
+        },
+        {
+            "text": "245,00",
+            "box": [
+                1597,
+                2010,
+                1705,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "245,00",
+                    "box": [
+                        1597,
+                        2010,
+                        1705,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 165
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                2010,
+                1915,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        2010,
+                        1915,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 166
+        },
+        {
+            "text": "179,99",
+            "box": [
+                1598,
+                2171,
+                1705,
+                2213
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "179,99",
+                    "box": [
+                        1598,
+                        2171,
+                        1705,
+                        2213
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 167
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                2176,
+                1915,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        2176,
+                        1915,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 168
+        },
+        {
+            "text": "13,98",
+            "box": [
+                1619,
+                2341,
+                1705,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "13,98",
+                    "box": [
+                        1619,
+                        2341,
+                        1705,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 169
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                2341,
+                1915,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        2341,
+                        1915,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 170
+        },
+        {
+            "text": "VAT",
+            "box": [
+                1715,
+                2636,
+                1786,
+                2660
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        1715,
+                        2636,
+                        1786,
+                        2660
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 171
+        },
+        {
+            "text": "260,16",
+            "box": [
+                1677,
+                2722,
+                1784,
+                2750
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "260,16",
+                    "box": [
+                        1677,
+                        2722,
+                        1784,
+                        2750
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 172
+        },
+        {
+            "text": "$",
+            "box": [
+                1632,
+                2806,
+                1650,
+                2836
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        1632,
+                        2806,
+                        1650,
+                        2836
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 173
+        },
+        {
+            "text": "260,16",
+            "box": [
+                1665,
+                2807,
+                1785,
+                2836
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "260,16",
+                    "box": [
+                        1665,
+                        2807,
+                        1785,
+                        2836
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 174
+        },
+        {
+            "text": "Gross",
+            "box": [
+                2060,
+                1223,
+                2159,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gross",
+                    "box": [
+                        2060,
+                        1223,
+                        2159,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 175
+        },
+        {
+            "text": "worth",
+            "box": [
+                2057,
+                1262,
+                2158,
+                1288
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        2057,
+                        1262,
+                        2158,
+                        1288
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 176
+        },
+        {
+            "text": "173,54",
+            "box": [
+                2052,
+                1349,
+                2159,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "173,54",
+                    "box": [
+                        2052,
+                        1349,
+                        2159,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 177
+        },
+        {
+            "text": "5,50",
+            "box": [
+                2092,
+                1514,
+                2159,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5,50",
+                    "box": [
+                        2092,
+                        1514,
+                        2159,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 178
+        },
+        {
+            "text": "549,95",
+            "box": [
+                2051,
+                1679,
+                2158,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "549,95",
+                    "box": [
+                        2051,
+                        1679,
+                        2158,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 179
+        },
+        {
+            "text": "549,96",
+            "box": [
+                2051,
+                1845,
+                2159,
+                1872
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "549,96",
+                    "box": [
+                        2051,
+                        1845,
+                        2159,
+                        1872
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 180
+        },
+        {
+            "text": "1",
+            "box": [
+                2021,
+                2010,
+                2036,
+                2034
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1",
+                    "box": [
+                        2021,
+                        2010,
+                        2036,
+                        2034
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 181
+        },
+        {
+            "text": "369,50",
+            "box": [
+                2051,
+                2010,
+                2159,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "369,50",
+                    "box": [
+                        2051,
+                        2010,
+                        2159,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 182
+        },
+        {
+            "text": "197,99",
+            "box": [
+                2052,
+                2176,
+                2158,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "197,99",
+                    "box": [
+                        2052,
+                        2176,
+                        2158,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 183
+        },
+        {
+            "text": "15,38",
+            "box": [
+                2072,
+                2341,
+                2159,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "15,38",
+                    "box": [
+                        2072,
+                        2341,
+                        2159,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 184
+        },
+        {
+            "text": "Gross",
+            "box": [
+                1949,
+                2636,
+                2048,
+                2661
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gross",
+                    "box": [
+                        1949,
+                        2636,
+                        2048,
+                        2661
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 185
+        },
+        {
+            "text": "worth",
+            "box": [
+                2062,
+                2635,
+                2164,
+                2661
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        2062,
+                        2635,
+                        2164,
+                        2661
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 186
+        },
+        {
+            "text": "2",
+            "box": [
+                2026,
+                2722,
+                2041,
+                2746
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        2026,
+                        2722,
+                        2041,
+                        2746
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 187
+        },
+        {
+            "text": "861,80",
+            "box": [
+                2056,
+                2722,
+                2164,
+                2750
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "861,80",
+                    "box": [
+                        2056,
+                        2722,
+                        2164,
+                        2750
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 188
+        },
+        {
+            "text": "$",
+            "box": [
+                1978,
+                2806,
+                1996,
+                2836
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        1978,
+                        2806,
+                        1996,
+                        2836
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 189
+        },
+        {
+            "text": "2",
+            "box": [
+                2012,
+                2807,
+                2029,
+                2831
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        2012,
+                        2807,
+                        2029,
+                        2831
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 190
+        },
+        {
+            "text": "861,80",
+            "box": [
+                2045,
+                2807,
+                2165,
+                2836
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "861,80",
+                    "box": [
+                        2045,
+                        2807,
+                        2165,
+                        2836
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 191
+        }
+    ]
+}

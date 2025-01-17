@@ -1,0 +1,4514 @@
+{
+    "form": [
+        {
+            "text": "82869381",
+            "box": [
+                494,
+                100,
+                792,
+                159
+            ],
+            "label": "invoice_number",
+            "words": [
+                {
+                    "text": "82869381",
+                    "box": [
+                        509,
+                        111,
+                        770,
+                        148
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 0
+        },
+        {
+            "text": "09/16/2016",
+            "box": [
+                1144,
+                194,
+                1417,
+                255
+            ],
+            "label": "invoice_date",
+            "words": [
+                {
+                    "text": "09/16/2016",
+                    "box": [
+                        1159,
+                        209,
+                        1408,
+                        246
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 1
+        },
+        {
+            "text": "James-Jones",
+            "box": [
+                1186,
+                730,
+                1457,
+                777
+            ],
+            "label": "client_name",
+            "words": [
+                {
+                    "text": "James-Jones",
+                    "box": [
+                        1200,
+                        736,
+                        1442,
+                        774
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 2
+        },
+        {
+            "text": "90829 Jill Plain\nEast Stacy, PA 48537",
+            "box": [
+                1183,
+                782,
+                1638,
+                881
+            ],
+            "label": "client_address",
+            "words": [
+                {
+                    "text": "90829",
+                    "box": [
+                        1205,
+                        782,
+                        1300,
+                        829
+                    ]
+                },
+                {
+                    "text": "jill",
+                    "box": [
+                        1322,
+                        786,
+                        1383,
+                        825
+                    ]
+                },
+                {
+                    "text": "Plain",
+                    "box": [
+                        1403,
+                        786,
+                        1493,
+                        818
+                    ]
+                },
+                {
+                    "text": "East",
+                    "box": [
+                        1206,
+                        839,
+                        1288,
+                        869
+                    ]
+                },
+                {
+                    "text": "Stacy,",
+                    "box": [
+                        1304,
+                        838,
+                        1421,
+                        876
+                    ]
+                },
+                {
+                    "text": "PA",
+                    "box": [
+                        1441,
+                        839,
+                        1488,
+                        868
+                    ]
+                },
+                {
+                    "text": "48537",
+                    "box": [
+                        1504,
+                        838,
+                        1626,
+                        869
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 3
+        },
+        {
+            "text": "902-99-4991",
+            "box": [
+                1345,
+                932,
+                1612,
+                980
+            ],
+            "label": "client_tax_id",
+            "words": [
+                {
+                    "text": "902-99-4991",
+                    "box": [
+                        1353,
+                        941,
+                        1605,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 4
+        },
+        {
+            "text": "King-Lawrence",
+            "box": [
+                193,
+                725,
+                512,
+                777
+            ],
+            "label": "seller_name",
+            "words": [
+                {
+                    "text": "King-Lawrence",
+                    "box": [
+                        208,
+                        735,
+                        497,
+                        774
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 5
+        },
+        {
+            "text": "53569 Angelica Island Apt. 529\nMargaretton, WA 58752",
+            "box": [
+                189,
+                782,
+                844,
+                880
+            ],
+            "label": "seller_address",
+            "words": [
+                {
+                    "text": "53569",
+                    "box": [
+                        207,
+                        787,
+                        328,
+                        818
+                    ]
+                },
+                {
+                    "text": "Angelica",
+                    "box": [
+                        344,
+                        786,
+                        512,
+                        825
+                    ]
+                },
+                {
+                    "text": "Island",
+                    "box": [
+                        532,
+                        786,
+                        643,
+                        818
+                    ]
+                },
+                {
+                    "text": "Apt.",
+                    "box": [
+                        660,
+                        787,
+                        737,
+                        825
+                    ]
+                },
+                {
+                    "text": "529",
+                    "box": [
+                        756,
+                        787,
+                        827,
+                        818
+                    ]
+                },
+                {
+                    "text": "Margaretton,",
+                    "box": [
+                        208,
+                        839,
+                        460,
+                        876
+                    ]
+                },
+                {
+                    "text": "WA",
+                    "box": [
+                        478,
+                        839,
+                        543,
+                        868
+                    ]
+                },
+                {
+                    "text": "58752",
+                    "box": [
+                        559,
+                        838,
+                        680,
+                        869
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 6
+        },
+        {
+            "text": "",
+            "box": [
+                345,
+                933,
+                616,
+                977
+            ],
+            "label": "seller_tax_id",
+            "words": [
+                {
+                    "text": "979-79-5668",
+                    "box": [
+                        355,
+                        941,
+                        608,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 7
+        },
+        {
+            "text": "GB24EIHI61175775509020",
+            "box": [
+                322,
+                984,
+                913,
+                1033
+            ],
+            "label": "iban",
+            "words": [
+                {
+                    "text": "GB24EIHI61175775509020",
+                    "box": [
+                        329,
+                        992,
+                        869,
+                        1023
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 8
+        },
+        {
+            "text": "Invoice",
+            "box": [
+                197,
+                110,
+                384,
+                148
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Invoice",
+                    "box": [
+                        197,
+                        110,
+                        384,
+                        148
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 9
+        },
+        {
+            "text": "no:",
+            "box": [
+                407,
+                120,
+                484,
+                148
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "no:",
+                    "box": [
+                        407,
+                        120,
+                        484,
+                        148
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 10
+        },
+        {
+            "text": "Date",
+            "box": [
+                197,
+                210,
+                296,
+                243
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Date",
+                    "box": [
+                        197,
+                        210,
+                        296,
+                        243
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 11
+        },
+        {
+            "text": "of",
+            "box": [
+                314,
+                208,
+                355,
+                243
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "of",
+                    "box": [
+                        314,
+                        208,
+                        355,
+                        243
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 12
+        },
+        {
+            "text": "issue:",
+            "box": [
+                372,
+                208,
+                491,
+                243
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "issue:",
+                    "box": [
+                        372,
+                        208,
+                        491,
+                        243
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 13
+        },
+        {
+            "text": "Seller:",
+            "box": [
+                196,
+                643,
+                363,
+                681
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Seller:",
+                    "box": [
+                        196,
+                        643,
+                        363,
+                        681
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 14
+        },
+        {
+            "text": "Tax",
+            "box": [
+                204,
+                942,
+                275,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Tax",
+                    "box": [
+                        204,
+                        942,
+                        275,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 15
+        },
+        {
+            "text": "Id:",
+            "box": [
+                293,
+                940,
+                335,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Id:",
+                    "box": [
+                        293,
+                        940,
+                        335,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 16
+        },
+        {
+            "text": "IBAN:",
+            "box": [
+                208,
+                992,
+                310,
+                1022
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "IBAN:",
+                    "box": [
+                        208,
+                        992,
+                        310,
+                        1022
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 17
+        },
+        {
+            "text": "ITEMS",
+            "box": [
+                197,
+                1100,
+                355,
+                1137
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "ITEMS",
+                    "box": [
+                        197,
+                        1100,
+                        355,
+                        1137
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 18
+        },
+        {
+            "text": "No.",
+            "box": [
+                233,
+                1223,
+                288,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "No.",
+                    "box": [
+                        233,
+                        1223,
+                        288,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 19
+        },
+        {
+            "text": "Description",
+            "box": [
+                348,
+                1222,
+                550,
+                1254
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Description",
+                    "box": [
+                        348,
+                        1222,
+                        550,
+                        1254
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 20
+        },
+        {
+            "text": "1.",
+            "box": [
+                235,
+                1345,
+                273,
+                1385
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1.",
+                    "box": [
+                        235,
+                        1345,
+                        273,
+                        1385
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 21
+        },
+        {
+            "text": "Vintage",
+            "box": [
+                346,
+                1348,
+                468,
+                1380
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Vintage",
+                    "box": [
+                        346,
+                        1348,
+                        468,
+                        1380
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 22
+        },
+        {
+            "text": "Gothic",
+            "box": [
+                481,
+                1348,
+                581,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gothic",
+                    "box": [
+                        481,
+                        1348,
+                        581,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 23
+        },
+        {
+            "text": "Lolita",
+            "box": [
+                596,
+                1348,
+                678,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Lolita",
+                    "box": [
+                        596,
+                        1348,
+                        678,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 24
+        },
+        {
+            "text": "Dress",
+            "box": [
+                693,
+                1349,
+                780,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        693,
+                        1349,
+                        780,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 25
+        },
+        {
+            "text": "Women",
+            "box": [
+                347,
+                1389,
+                466,
+                1414
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Women",
+                    "box": [
+                        347,
+                        1389,
+                        466,
+                        1414
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 26
+        },
+        {
+            "text": "Loose",
+            "box": [
+                481,
+                1389,
+                570,
+                1414
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Loose",
+                    "box": [
+                        481,
+                        1389,
+                        570,
+                        1414
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 27
+        },
+        {
+            "text": "Puff",
+            "box": [
+                585,
+                1388,
+                645,
+                1414
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Puff",
+                    "box": [
+                        585,
+                        1388,
+                        645,
+                        1414
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 28
+        },
+        {
+            "text": "Sleeve",
+            "box": [
+                656,
+                1388,
+                760,
+                1414
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sleeve",
+                    "box": [
+                        656,
+                        1388,
+                        760,
+                        1414
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 29
+        },
+        {
+            "text": "Pure",
+            "box": [
+                774,
+                1389,
+                842,
+                1414
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Pure",
+                    "box": [
+                        774,
+                        1389,
+                        842,
+                        1414
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 30
+        },
+        {
+            "text": "Color",
+            "box": [
+                347,
+                1428,
+                429,
+                1454
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Color",
+                    "box": [
+                        347,
+                        1428,
+                        429,
+                        1454
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 31
+        },
+        {
+            "text": "Princess",
+            "box": [
+                442,
+                1428,
+                570,
+                1454
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Princess",
+                    "box": [
+                        442,
+                        1428,
+                        570,
+                        1454
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 32
+        },
+        {
+            "text": "Dresses",
+            "box": [
+                585,
+                1429,
+                708,
+                1454
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dresses",
+                    "box": [
+                        585,
+                        1429,
+                        708,
+                        1454
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 33
+        },
+        {
+            "text": "2.",
+            "box": [
+                234,
+                1509,
+                272,
+                1549
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2.",
+                    "box": [
+                        234,
+                        1509,
+                        272,
+                        1549
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 34
+        },
+        {
+            "text": "Xhilaration",
+            "box": [
+                347,
+                1513,
+                517,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Xhilaration",
+                    "box": [
+                        347,
+                        1513,
+                        517,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 35
+        },
+        {
+            "text": "Womens",
+            "box": [
+                531,
+                1514,
+                667,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Womens",
+                    "box": [
+                        531,
+                        1514,
+                        667,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 36
+        },
+        {
+            "text": "L",
+            "box": [
+                682,
+                1514,
+                696,
+                1538
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "L",
+                    "box": [
+                        682,
+                        1514,
+                        696,
+                        1538
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 37
+        },
+        {
+            "text": "Burgandy",
+            "box": [
+                710,
+                1513,
+                860,
+                1545
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Burgandy",
+                    "box": [
+                        710,
+                        1513,
+                        860,
+                        1545
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 38
+        },
+        {
+            "text": "Boho",
+            "box": [
+                349,
+                1553,
+                426,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Boho",
+                    "box": [
+                        349,
+                        1553,
+                        426,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 39
+        },
+        {
+            "text": "Embroidered",
+            "box": [
+                440,
+                1553,
+                641,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Embroidered",
+                    "box": [
+                        440,
+                        1553,
+                        641,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 40
+        },
+        {
+            "text": "Festival",
+            "box": [
+                657,
+                1553,
+                774,
+                1579
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Festival",
+                    "box": [
+                        657,
+                        1553,
+                        774,
+                        1579
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 41
+        },
+        {
+            "text": "Mini",
+            "box": [
+                790,
+                1553,
+                850,
+                1578
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Mini",
+                    "box": [
+                        790,
+                        1553,
+                        850,
+                        1578
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 42
+        },
+        {
+            "text": "Dress",
+            "box": [
+                349,
+                1594,
+                435,
+                1619
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        349,
+                        1594,
+                        435,
+                        1619
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 43
+        },
+        {
+            "text": "NEW",
+            "box": [
+                450,
+                1594,
+                521,
+                1618
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "NEW",
+                    "box": [
+                        450,
+                        1594,
+                        521,
+                        1618
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 44
+        },
+        {
+            "text": "3.",
+            "box": [
+                248,
+                1679,
+                273,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "3.",
+                    "box": [
+                        248,
+                        1679,
+                        273,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 45
+        },
+        {
+            "text": "Leopard",
+            "box": [
+                349,
+                1678,
+                474,
+                1710
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Leopard",
+                    "box": [
+                        349,
+                        1678,
+                        474,
+                        1710
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 46
+        },
+        {
+            "text": "Print",
+            "box": [
+                489,
+                1678,
+                560,
+                1703
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Print",
+                    "box": [
+                        489,
+                        1678,
+                        560,
+                        1703
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 47
+        },
+        {
+            "text": "Large",
+            "box": [
+                574,
+                1679,
+                660,
+                1710
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Large",
+                    "box": [
+                        574,
+                        1679,
+                        660,
+                        1710
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 48
+        },
+        {
+            "text": "Dress",
+            "box": [
+                674,
+                1679,
+                761,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        674,
+                        1679,
+                        761,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 49
+        },
+        {
+            "text": "With",
+            "box": [
+                774,
+                1678,
+                843,
+                1703
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "With",
+                    "box": [
+                        774,
+                        1678,
+                        843,
+                        1703
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 50
+        },
+        {
+            "text": "Pockets",
+            "box": [
+                349,
+                1718,
+                468,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Pockets",
+                    "box": [
+                        349,
+                        1718,
+                        468,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 51
+        },
+        {
+            "text": "&",
+            "box": [
+                481,
+                1719,
+                503,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "&",
+                    "box": [
+                        481,
+                        1719,
+                        503,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 52
+        },
+        {
+            "text": "Floral",
+            "box": [
+                518,
+                1718,
+                600,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Floral",
+                    "box": [
+                        518,
+                        1718,
+                        600,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 53
+        },
+        {
+            "text": "Sleeves",
+            "box": [
+                615,
+                1718,
+                736,
+                1744
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sleeves",
+                    "box": [
+                        615,
+                        1718,
+                        736,
+                        1744
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 54
+        },
+        {
+            "text": "HoneyMe",
+            "box": [
+                349,
+                1759,
+                494,
+                1790
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "HoneyMe",
+                    "box": [
+                        349,
+                        1759,
+                        494,
+                        1790
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 55
+        },
+        {
+            "text": "Size",
+            "box": [
+                508,
+                1758,
+                570,
+                1784
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Size",
+                    "box": [
+                        508,
+                        1758,
+                        570,
+                        1784
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 56
+        },
+        {
+            "text": "L",
+            "box": [
+                584,
+                1759,
+                599,
+                1783
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "L",
+                    "box": [
+                        584,
+                        1759,
+                        599,
+                        1783
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 57
+        },
+        {
+            "text": "NWT",
+            "box": [
+                612,
+                1759,
+                685,
+                1783
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "NWT",
+                    "box": [
+                        612,
+                        1759,
+                        685,
+                        1783
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 58
+        },
+        {
+            "text": "4.",
+            "box": [
+                247,
+                1845,
+                272,
+                1869
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4.",
+                    "box": [
+                        247,
+                        1845,
+                        272,
+                        1869
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 59
+        },
+        {
+            "text": "1920s",
+            "box": [
+                349,
+                1845,
+                442,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1920s",
+                    "box": [
+                        349,
+                        1845,
+                        442,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 60
+        },
+        {
+            "text": "Flapper",
+            "box": [
+                457,
+                1844,
+                575,
+                1876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Flapper",
+                    "box": [
+                        457,
+                        1844,
+                        575,
+                        1876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 61
+        },
+        {
+            "text": "Gatsby",
+            "box": [
+                586,
+                1844,
+                696,
+                1876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gatsby",
+                    "box": [
+                        586,
+                        1844,
+                        696,
+                        1876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 62
+        },
+        {
+            "text": "Cocktail",
+            "box": [
+                709,
+                1844,
+                832,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Cocktail",
+                    "box": [
+                        709,
+                        1844,
+                        832,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 63
+        },
+        {
+            "text": "Dress",
+            "box": [
+                349,
+                1885,
+                435,
+                1910
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        349,
+                        1885,
+                        435,
+                        1910
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 64
+        },
+        {
+            "text": "Chiffon",
+            "box": [
+                448,
+                1884,
+                558,
+                1910
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Chiffon",
+                    "box": [
+                        448,
+                        1884,
+                        558,
+                        1910
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 65
+        },
+        {
+            "text": "Wedding",
+            "box": [
+                572,
+                1884,
+                709,
+                1916
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Wedding",
+                    "box": [
+                        572,
+                        1884,
+                        709,
+                        1916
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 66
+        },
+        {
+            "text": "Party",
+            "box": [
+                725,
+                1885,
+                804,
+                1916
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Party",
+                    "box": [
+                        725,
+                        1885,
+                        804,
+                        1916
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 67
+        },
+        {
+            "text": "Evening",
+            "box": [
+                349,
+                1924,
+                472,
+                1956
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Evening",
+                    "box": [
+                        349,
+                        1924,
+                        472,
+                        1956
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 68
+        },
+        {
+            "text": "Formal",
+            "box": [
+                487,
+                1924,
+                592,
+                1950
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Formal",
+                    "box": [
+                        487,
+                        1924,
+                        592,
+                        1950
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 69
+        },
+        {
+            "text": "Dresses",
+            "box": [
+                608,
+                1925,
+                731,
+                1950
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dresses",
+                    "box": [
+                        608,
+                        1925,
+                        731,
+                        1950
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 70
+        },
+        {
+            "text": "5:",
+            "box": [
+                248,
+                2010,
+                273,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5:",
+                    "box": [
+                        248,
+                        2010,
+                        273,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 71
+        },
+        {
+            "text": "Boden",
+            "box": [
+                349,
+                2009,
+                445,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Boden",
+                    "box": [
+                        349,
+                        2009,
+                        445,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 72
+        },
+        {
+            "text": "Size",
+            "box": [
+                460,
+                2009,
+                522,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Size",
+                    "box": [
+                        460,
+                        2009,
+                        522,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 73
+        },
+        {
+            "text": "8",
+            "box": [
+                535,
+                2010,
+                552,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "8",
+                    "box": [
+                        535,
+                        2010,
+                        552,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 74
+        },
+        {
+            "text": "US",
+            "box": [
+                567,
+                2010,
+                606,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "US",
+                    "box": [
+                        567,
+                        2010,
+                        606,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 75
+        },
+        {
+            "text": "Green",
+            "box": [
+                619,
+                2010,
+                713,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Green",
+                    "box": [
+                        619,
+                        2010,
+                        713,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 76
+        },
+        {
+            "text": "&",
+            "box": [
+                728,
+                2010,
+                749,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "&",
+                    "box": [
+                        728,
+                        2010,
+                        749,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 77
+        },
+        {
+            "text": "Navy",
+            "box": [
+                764,
+                2010,
+                841,
+                2041
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Navy",
+                    "box": [
+                        764,
+                        2010,
+                        841,
+                        2041
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 78
+        },
+        {
+            "text": "Dark",
+            "box": [
+                349,
+                2049,
+                421,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dark",
+                    "box": [
+                        349,
+                        2049,
+                        421,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 79
+        },
+        {
+            "text": "Blue",
+            "box": [
+                435,
+                2049,
+                501,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Blue",
+                    "box": [
+                        435,
+                        2049,
+                        501,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 80
+        },
+        {
+            "text": "Belted",
+            "box": [
+                516,
+                2049,
+                613,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Belted",
+                    "box": [
+                        516,
+                        2049,
+                        613,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 81
+        },
+        {
+            "text": "Midi",
+            "box": [
+                629,
+                2049,
+                689,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Midi",
+                    "box": [
+                        629,
+                        2049,
+                        689,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 82
+        },
+        {
+            "text": "Wool",
+            "box": [
+                703,
+                2049,
+                779,
+                2075
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Wool",
+                    "box": [
+                        703,
+                        2049,
+                        779,
+                        2075
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 83
+        },
+        {
+            "text": "Knit",
+            "box": [
+                795,
+                2049,
+                854,
+                2074
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Knit",
+                    "box": [
+                        795,
+                        2049,
+                        854,
+                        2074
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 84
+        },
+        {
+            "text": "Sweater",
+            "box": [
+                348,
+                2090,
+                477,
+                2115
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sweater",
+                    "box": [
+                        348,
+                        2090,
+                        477,
+                        2115
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 85
+        },
+        {
+            "text": "Fall",
+            "box": [
+                490,
+                2089,
+                540,
+                2115
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Fall",
+                    "box": [
+                        490,
+                        2089,
+                        540,
+                        2115
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 86
+        },
+        {
+            "text": "Dress",
+            "box": [
+                556,
+                2090,
+                642,
+                2115
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        556,
+                        2090,
+                        642,
+                        2115
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 87
+        },
+        {
+            "text": "6.",
+            "box": [
+                247,
+                2176,
+                273,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "6.",
+                    "box": [
+                        247,
+                        2176,
+                        273,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 88
+        },
+        {
+            "text": "14",
+            "box": [
+                349,
+                2176,
+                385,
+                2200
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "14",
+                    "box": [
+                        349,
+                        2176,
+                        385,
+                        2200
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 89
+        },
+        {
+            "text": "Colors",
+            "box": [
+                398,
+                2175,
+                495,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Colors",
+                    "box": [
+                        398,
+                        2175,
+                        495,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 90
+        },
+        {
+            "text": "Women",
+            "box": [
+                508,
+                2176,
+                627,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Women",
+                    "box": [
+                        508,
+                        2176,
+                        627,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 91
+        },
+        {
+            "text": "Spaghetti",
+            "box": [
+                641,
+                2175,
+                791,
+                2207
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Spaghetti",
+                    "box": [
+                        641,
+                        2175,
+                        791,
+                        2207
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 92
+        },
+        {
+            "text": "Strap",
+            "box": [
+                348,
+                2216,
+                430,
+                2247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Strap",
+                    "box": [
+                        348,
+                        2216,
+                        430,
+                        2247
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 93
+        },
+        {
+            "text": "Bodycon",
+            "box": [
+                445,
+                2215,
+                577,
+                2247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Bodycon",
+                    "box": [
+                        445,
+                        2215,
+                        577,
+                        2247
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 94
+        },
+        {
+            "text": "Mini",
+            "box": [
+                593,
+                2215,
+                653,
+                2240
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Mini",
+                    "box": [
+                        593,
+                        2215,
+                        653,
+                        2240
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 95
+        },
+        {
+            "text": "Dress",
+            "box": [
+                669,
+                2216,
+                755,
+                2241
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        669,
+                        2216,
+                        755,
+                        2241
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 96
+        },
+        {
+            "text": "Sexy",
+            "box": [
+                769,
+                2216,
+                843,
+                2247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sexy",
+                    "box": [
+                        769,
+                        2216,
+                        843,
+                        2247
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 97
+        },
+        {
+            "text": "Party",
+            "box": [
+                349,
+                2256,
+                428,
+                2287
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Party",
+                    "box": [
+                        349,
+                        2256,
+                        428,
+                        2287
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 98
+        },
+        {
+            "text": "Club",
+            "box": [
+                441,
+                2255,
+                510,
+                2281
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Club",
+                    "box": [
+                        441,
+                        2255,
+                        510,
+                        2281
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 99
+        },
+        {
+            "text": "Wear",
+            "box": [
+                523,
+                2256,
+                606,
+                2281
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Wear",
+                    "box": [
+                        523,
+                        2256,
+                        606,
+                        2281
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 100
+        },
+        {
+            "text": "Dresses",
+            "box": [
+                619,
+                2256,
+                741,
+                2281
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dresses",
+                    "box": [
+                        619,
+                        2256,
+                        741,
+                        2281
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 101
+        },
+        {
+            "text": "7.",
+            "box": [
+                248,
+                2341,
+                273,
+                2365
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "7.",
+                    "box": [
+                        248,
+                        2341,
+                        273,
+                        2365
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 102
+        },
+        {
+            "text": "Lands",
+            "box": [
+                349,
+                2340,
+                439,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Lands",
+                    "box": [
+                        349,
+                        2340,
+                        439,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 103
+        },
+        {
+            "text": "End",
+            "box": [
+                454,
+                2340,
+                509,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "End",
+                    "box": [
+                        454,
+                        2340,
+                        509,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 104
+        },
+        {
+            "text": "Womens",
+            "box": [
+                522,
+                2341,
+                659,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Womens",
+                    "box": [
+                        522,
+                        2341,
+                        659,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 105
+        },
+        {
+            "text": "3/4",
+            "box": [
+                673,
+                2341,
+                720,
+                2368
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "3/4",
+                    "box": [
+                        673,
+                        2341,
+                        720,
+                        2368
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 106
+        },
+        {
+            "text": "Sleeve",
+            "box": [
+                734,
+                2340,
+                838,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Sleeve",
+                    "box": [
+                        734,
+                        2340,
+                        838,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 107
+        },
+        {
+            "text": "Dress",
+            "box": [
+                349,
+                2381,
+                435,
+                2406
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Dress",
+                    "box": [
+                        349,
+                        2381,
+                        435,
+                        2406
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 108
+        },
+        {
+            "text": "Plus",
+            "box": [
+                450,
+                2380,
+                510,
+                2406
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Plus",
+                    "box": [
+                        450,
+                        2380,
+                        510,
+                        2406
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 109
+        },
+        {
+            "text": "3X",
+            "box": [
+                524,
+                2381,
+                563,
+                2406
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "3X",
+                    "box": [
+                        524,
+                        2381,
+                        563,
+                        2406
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 110
+        },
+        {
+            "text": "Navy",
+            "box": [
+                577,
+                2381,
+                655,
+                2412
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Navy",
+                    "box": [
+                        577,
+                        2381,
+                        655,
+                        2412
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 111
+        },
+        {
+            "text": "Blue",
+            "box": [
+                669,
+                2380,
+                735,
+                2406
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Blue",
+                    "box": [
+                        669,
+                        2380,
+                        735,
+                        2406
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 112
+        },
+        {
+            "text": "Floral",
+            "box": [
+                750,
+                2380,
+                832,
+                2406
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Floral",
+                    "box": [
+                        750,
+                        2380,
+                        832,
+                        2406
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 113
+        },
+        {
+            "text": "Cotton",
+            "box": [
+                347,
+                2421,
+                450,
+                2446
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Cotton",
+                    "box": [
+                        347,
+                        2421,
+                        450,
+                        2446
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 114
+        },
+        {
+            "text": "Knit",
+            "box": [
+                466,
+                2420,
+                525,
+                2445
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Knit",
+                    "box": [
+                        466,
+                        2420,
+                        525,
+                        2445
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 115
+        },
+        {
+            "text": "482038",
+            "box": [
+                537,
+                2421,
+                656,
+                2446
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "482038",
+                    "box": [
+                        537,
+                        2421,
+                        656,
+                        2446
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 116
+        },
+        {
+            "text": "SUMMARY",
+            "box": [
+                196,
+                2553,
+                471,
+                2590
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "SUMMARY",
+                    "box": [
+                        196,
+                        2553,
+                        471,
+                        2590
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 117
+        },
+        {
+            "text": "Total",
+            "box": [
+                725,
+                2846,
+                814,
+                2872
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Total",
+                    "box": [
+                        725,
+                        2846,
+                        814,
+                        2872
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 118
+        },
+        {
+            "text": "Qty",
+            "box": [
+                982,
+                1223,
+                1043,
+                1254
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Qty",
+                    "box": [
+                        982,
+                        1223,
+                        1043,
+                        1254
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 119
+        },
+        {
+            "text": "5,00",
+            "box": [
+                974,
+                1349,
+                1041,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5,00",
+                    "box": [
+                        974,
+                        1349,
+                        1041,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 120
+        },
+        {
+            "text": "4,00",
+            "box": [
+                973,
+                1514,
+                1041,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4,00",
+                    "box": [
+                        973,
+                        1514,
+                        1041,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 121
+        },
+        {
+            "text": "5,00",
+            "box": [
+                974,
+                1679,
+                1041,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "5,00",
+                    "box": [
+                        974,
+                        1679,
+                        1041,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 122
+        },
+        {
+            "text": "1,00",
+            "box": [
+                975,
+                1845,
+                1041,
+                1873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1,00",
+                    "box": [
+                        975,
+                        1845,
+                        1041,
+                        1873
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 123
+        },
+        {
+            "text": "1,00",
+            "box": [
+                975,
+                2010,
+                1041,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1,00",
+                    "box": [
+                        975,
+                        2010,
+                        1041,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 124
+        },
+        {
+            "text": "4,00",
+            "box": [
+                973,
+                2176,
+                1041,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4,00",
+                    "box": [
+                        973,
+                        2176,
+                        1041,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 125
+        },
+        {
+            "text": "1,00",
+            "box": [
+                975,
+                2341,
+                1041,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1,00",
+                    "box": [
+                        975,
+                        2341,
+                        1041,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 126
+        },
+        {
+            "text": "VAT",
+            "box": [
+                926,
+                2676,
+                997,
+                2700
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        926,
+                        2676,
+                        997,
+                        2700
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 127
+        },
+        {
+            "text": "[%]",
+            "box": [
+                1011,
+                2675,
+                1067,
+                2704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "[%]",
+                    "box": [
+                        1011,
+                        2675,
+                        1067,
+                        2704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 128
+        },
+        {
+            "text": "10%",
+            "box": [
+                966,
+                2762,
+                1032,
+                2787
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        966,
+                        2762,
+                        1032,
+                        2787
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 129
+        },
+        {
+            "text": "UM",
+            "box": [
+                1125,
+                1223,
+                1177,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "UM",
+                    "box": [
+                        1125,
+                        1223,
+                        1177,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 130
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1348,
+                1187,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1348,
+                        1187,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 131
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1513,
+                1187,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1513,
+                        1187,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 132
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1678,
+                1187,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1678,
+                        1187,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 133
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                1844,
+                1187,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        1844,
+                        1187,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 134
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                2009,
+                1187,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        2009,
+                        1187,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 135
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                2175,
+                1187,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        2175,
+                        1187,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 136
+        },
+        {
+            "text": "each",
+            "box": [
+                1114,
+                2340,
+                1187,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "each",
+                    "box": [
+                        1114,
+                        2340,
+                        1187,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 137
+        },
+        {
+            "text": "Client:",
+            "box": [
+                1193,
+                643,
+                1363,
+                681
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Client:",
+                    "box": [
+                        1193,
+                        643,
+                        1363,
+                        681
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 138
+        },
+        {
+            "text": "Tax",
+            "box": [
+                1202,
+                942,
+                1273,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Tax",
+                    "box": [
+                        1202,
+                        942,
+                        1273,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 139
+        },
+        {
+            "text": "Id:",
+            "box": [
+                1291,
+                940,
+                1334,
+                972
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Id:",
+                    "box": [
+                        1291,
+                        940,
+                        1334,
+                        972
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 140
+        },
+        {
+            "text": "Net",
+            "box": [
+                1300,
+                1223,
+                1361,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Net",
+                    "box": [
+                        1300,
+                        1223,
+                        1361,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 141
+        },
+        {
+            "text": "price",
+            "box": [
+                1375,
+                1222,
+                1462,
+                1254
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "price",
+                    "box": [
+                        1375,
+                        1222,
+                        1462,
+                        1254
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 142
+        },
+        {
+            "text": "22,77",
+            "box": [
+                1374,
+                1349,
+                1460,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "22,77",
+                    "box": [
+                        1374,
+                        1349,
+                        1460,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 143
+        },
+        {
+            "text": "14,95",
+            "box": [
+                1375,
+                1514,
+                1460,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "14,95",
+                    "box": [
+                        1375,
+                        1514,
+                        1460,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 144
+        },
+        {
+            "text": "39,00",
+            "box": [
+                1374,
+                1679,
+                1461,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "39,00",
+                    "box": [
+                        1374,
+                        1679,
+                        1461,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 145
+        },
+        {
+            "text": "8,99",
+            "box": [
+                1394,
+                1845,
+                1461,
+                1873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "8,99",
+                    "box": [
+                        1394,
+                        1845,
+                        1461,
+                        1873
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 146
+        },
+        {
+            "text": "35,00",
+            "box": [
+                1374,
+                2010,
+                1461,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "35,00",
+                    "box": [
+                        1374,
+                        2010,
+                        1461,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 147
+        },
+        {
+            "text": "4,71",
+            "box": [
+                1393,
+                2176,
+                1460,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "4,71",
+                    "box": [
+                        1393,
+                        2176,
+                        1460,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 148
+        },
+        {
+            "text": "21,23",
+            "box": [
+                1374,
+                2341,
+                1461,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "21,23",
+                    "box": [
+                        1374,
+                        2341,
+                        1461,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 149
+        },
+        {
+            "text": "Net",
+            "box": [
+                1342,
+                2676,
+                1403,
+                2701
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Net",
+                    "box": [
+                        1342,
+                        2676,
+                        1403,
+                        2701
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 150
+        },
+        {
+            "text": "worth",
+            "box": [
+                1416,
+                2675,
+                1517,
+                2701
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        1416,
+                        2675,
+                        1517,
+                        2701
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 151
+        },
+        {
+            "text": "452,71",
+            "box": [
+                1409,
+                2762,
+                1517,
+                2790
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "452,71",
+                    "box": [
+                        1409,
+                        2762,
+                        1517,
+                        2790
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 152
+        },
+        {
+            "text": "$",
+            "box": [
+                1365,
+                2846,
+                1383,
+                2876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        1365,
+                        2846,
+                        1383,
+                        2876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 153
+        },
+        {
+            "text": "452,71",
+            "box": [
+                1398,
+                2847,
+                1518,
+                2876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "452,71",
+                    "box": [
+                        1398,
+                        2847,
+                        1518,
+                        2876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 154
+        },
+        {
+            "text": "Net",
+            "box": [
+                1529,
+                1223,
+                1590,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Net",
+                    "box": [
+                        1529,
+                        1223,
+                        1590,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 155
+        },
+        {
+            "text": "worth",
+            "box": [
+                1603,
+                1222,
+                1704,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        1603,
+                        1222,
+                        1704,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 156
+        },
+        {
+            "text": "VAT",
+            "box": [
+                1773,
+                1223,
+                1844,
+                1247
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        1773,
+                        1223,
+                        1844,
+                        1247
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 157
+        },
+        {
+            "text": "[%]",
+            "box": [
+                1858,
+                1222,
+                1914,
+                1251
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "[%]",
+                    "box": [
+                        1858,
+                        1222,
+                        1914,
+                        1251
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 158
+        },
+        {
+            "text": "113,85",
+            "box": [
+                1598,
+                1344,
+                1699,
+                1386
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "113,85",
+                    "box": [
+                        1598,
+                        1344,
+                        1699,
+                        1386
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 159
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1349,
+                1915,
+                1374
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1349,
+                        1915,
+                        1374
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 160
+        },
+        {
+            "text": "59,80",
+            "box": [
+                1618,
+                1514,
+                1705,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "59,80",
+                    "box": [
+                        1618,
+                        1514,
+                        1705,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 161
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1514,
+                1915,
+                1539
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1514,
+                        1915,
+                        1539
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 162
+        },
+        {
+            "text": "195,00",
+            "box": [
+                1598,
+                1679,
+                1705,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "195,00",
+                    "box": [
+                        1598,
+                        1679,
+                        1705,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 163
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1679,
+                1915,
+                1704
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1679,
+                        1915,
+                        1704
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 164
+        },
+        {
+            "text": "8,99",
+            "box": [
+                1638,
+                1845,
+                1705,
+                1873
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "8,99",
+                    "box": [
+                        1638,
+                        1845,
+                        1705,
+                        1873
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 165
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                1845,
+                1915,
+                1870
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        1845,
+                        1915,
+                        1870
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 166
+        },
+        {
+            "text": "35,00",
+            "box": [
+                1618,
+                2010,
+                1705,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "35,00",
+                    "box": [
+                        1618,
+                        2010,
+                        1705,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 167
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                2010,
+                1915,
+                2035
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        2010,
+                        1915,
+                        2035
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 168
+        },
+        {
+            "text": "18,84",
+            "box": [
+                1619,
+                2176,
+                1701,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "18,84",
+                    "box": [
+                        1619,
+                        2176,
+                        1701,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 169
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                2176,
+                1915,
+                2201
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        2176,
+                        1915,
+                        2201
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 170
+        },
+        {
+            "text": "21023",
+            "box": [
+                1618,
+                2336,
+                1705,
+                2377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "21023",
+                    "box": [
+                        1618,
+                        2336,
+                        1705,
+                        2377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 171
+        },
+        {
+            "text": "10%",
+            "box": [
+                1849,
+                2341,
+                1915,
+                2366
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10%",
+                    "box": [
+                        1849,
+                        2341,
+                        1915,
+                        2366
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 172
+        },
+        {
+            "text": "VAT",
+            "box": [
+                1715,
+                2676,
+                1786,
+                2700
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "VAT",
+                    "box": [
+                        1715,
+                        2676,
+                        1786,
+                        2700
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 173
+        },
+        {
+            "text": "45,27",
+            "box": [
+                1696,
+                2762,
+                1784,
+                2790
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "45,27",
+                    "box": [
+                        1696,
+                        2762,
+                        1784,
+                        2790
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 174
+        },
+        {
+            "text": "$",
+            "box": [
+                1654,
+                2846,
+                1672,
+                2876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        1654,
+                        2846,
+                        1672,
+                        2876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 175
+        },
+        {
+            "text": "45,27",
+            "box": [
+                1686,
+                2847,
+                1784,
+                2876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "45,27",
+                    "box": [
+                        1686,
+                        2847,
+                        1784,
+                        2876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 176
+        },
+        {
+            "text": "Gross",
+            "box": [
+                2060,
+                1223,
+                2159,
+                1248
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gross",
+                    "box": [
+                        2060,
+                        1223,
+                        2159,
+                        1248
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 177
+        },
+        {
+            "text": "worth",
+            "box": [
+                2057,
+                1262,
+                2158,
+                1288
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        2057,
+                        1262,
+                        2158,
+                        1288
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 178
+        },
+        {
+            "text": "125,23",
+            "box": [
+                2052,
+                1349,
+                2158,
+                1377
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "125,23",
+                    "box": [
+                        2052,
+                        1349,
+                        2158,
+                        1377
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 179
+        },
+        {
+            "text": "65,78",
+            "box": [
+                2071,
+                1514,
+                2159,
+                1542
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "65,78",
+                    "box": [
+                        2071,
+                        1514,
+                        2159,
+                        1542
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 180
+        },
+        {
+            "text": "214,50",
+            "box": [
+                2051,
+                1679,
+                2159,
+                1707
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "214,50",
+                    "box": [
+                        2051,
+                        1679,
+                        2159,
+                        1707
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 181
+        },
+        {
+            "text": "9,89",
+            "box": [
+                2091,
+                1845,
+                2159,
+                1872
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "9,89",
+                    "box": [
+                        2091,
+                        1845,
+                        2159,
+                        1872
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 182
+        },
+        {
+            "text": "38,50",
+            "box": [
+                2071,
+                2010,
+                2159,
+                2038
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "38,50",
+                    "box": [
+                        2071,
+                        2010,
+                        2159,
+                        2038
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 183
+        },
+        {
+            "text": "20,72",
+            "box": [
+                2071,
+                2176,
+                2158,
+                2204
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "20,72",
+                    "box": [
+                        2071,
+                        2176,
+                        2158,
+                        2204
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 184
+        },
+        {
+            "text": "23,35",
+            "box": [
+                2071,
+                2341,
+                2158,
+                2369
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "23,35",
+                    "box": [
+                        2071,
+                        2341,
+                        2158,
+                        2369
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 185
+        },
+        {
+            "text": "Gross",
+            "box": [
+                1949,
+                2676,
+                2048,
+                2701
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Gross",
+                    "box": [
+                        1949,
+                        2676,
+                        2048,
+                        2701
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 186
+        },
+        {
+            "text": "worth",
+            "box": [
+                2062,
+                2675,
+                2164,
+                2701
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "worth",
+                    "box": [
+                        2062,
+                        2675,
+                        2164,
+                        2701
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 187
+        },
+        {
+            "text": "497,98",
+            "box": [
+                2056,
+                2762,
+                2164,
+                2790
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "497,98",
+                    "box": [
+                        2056,
+                        2762,
+                        2164,
+                        2790
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 188
+        },
+        {
+            "text": "$",
+            "box": [
+                2012,
+                2846,
+                2030,
+                2876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        2012,
+                        2846,
+                        2030,
+                        2876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 189
+        },
+        {
+            "text": "497,98",
+            "box": [
+                2044,
+                2847,
+                2164,
+                2876
+            ],
+            "label": "other",
+            "words": [
+                {
+                    "text": "497,98",
+                    "box": [
+                        2044,
+                        2847,
+                        2164,
+                        2876
+                    ]
+                }
+            ],
+            "linking": [],
+            "id": 190
+        }
+    ]
+}

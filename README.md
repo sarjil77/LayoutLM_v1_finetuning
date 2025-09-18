@@ -29,30 +29,57 @@ The model extracts the following invoice entities:
 ```
 LayoutLM_v1_finetuning/
 ├── README.md                           # This file
-├── LayoutLM_invoices.ipynb            # Main training notebook for invoice dataset
-├── LayoutLM_FUNSD.ipynb               # Training notebook for FUNSD dataset
-├── Inferencing.ipynb                  # Inference examples and testing
-├── all_json_prepare.ipynb             # Data preparation from OCR to JSON format
-├── prepare_input_files.ipynb          # Input file preprocessing
-├── checkImbalance.ipynb               # Dataset analysis and class imbalance check
-├── invoice_response_json.ipynb        # JSON response formatting examples
-├── Invoice_May9.ipynb                 # Training experiments from May 9
-├── PaperSummary_LayoutLM.ipynb        # LayoutLM paper summary and analysis
-├── preprocess.py                      # Data preprocessing utilities
-├── invoice_API.py                     # Flask API for invoice processing
-├── invoice_image_API.py               # Flask API with image upload support
-├── training_loss_May11.txt            # Training loss logs
-├── 1000_Invoice_data_may_9/           # Invoice dataset (XML annotations)
-├── content/                           # Main content directory
-│   ├── data/                         # Training and testing datasets
-│   ├── transformers/                 # Hugging Face transformers library
-│   ├── unilm/                        # UniLM repository with LayoutLM
-│   ├── layout_lm_tutorial/           # Tutorial and preprocessing utilities
-│   ├── postman_data/                 # API testing data
-│   └── sample_data/                  # Sample images and annotations
-├── json_prepare/                      # JSON data preparation scripts
-├── issueIn/                          # Issue tracking and debugging files
-└── layout_lm_tutorial/               # Additional tutorial resources
+├── requirements.txt                    # Python dependencies
+├── .gitignore                         # Git ignore patterns
+├── notebooks/                          # Jupyter notebooks organized by category
+│   ├── training/                      # Training-related notebooks
+│   │   ├── layoutlm_invoices_training.ipynb    # Main invoice training
+│   │   ├── layoutlm_funsd_training.ipynb       # FUNSD dataset training
+│   │   └── training_experiments_may9.ipynb     # Training experiments
+│   ├── data_preparation/              # Data preprocessing notebooks
+│   │   ├── json_preparation.ipynb     # OCR to JSON conversion
+│   │   ├── data_preprocessing.ipynb   # Input file preprocessing
+│   │   └── dataset_analysis.ipynb     # Dataset analysis & imbalance check
+│   ├── inference/                     # Inference and testing notebooks
+│   │   ├── model_inference.ipynb      # Model inference examples
+│   │   └── api_response_examples.ipynb # API response formatting
+│   └── research/                      # Research and analysis notebooks
+│       └── layoutlm_paper_summary.ipynb # LayoutLM paper summary
+├── src/                               # Source code modules
+│   ├── __init__.py
+│   ├── api/                          # Flask API endpoints
+│   │   ├── __init__.py
+│   │   ├── invoice_api.py            # Invoice processing API
+│   │   └── image_api.py              # Image upload API
+│   ├── preprocessing/                 # Data preprocessing utilities
+│   │   ├── __init__.py
+│   │   └── data_preprocessor.py      # Main preprocessing script
+│   ├── models/                       # Model definitions
+│   │   └── __init__.py
+│   └── utils/                        # Utility functions
+│       └── __init__.py
+├── data/                              # All datasets and processed data
+│   ├── raw/                          # Raw datasets
+│   │   └── invoice_annotations/      # Invoice XML annotations
+│   ├── processed/                    # Processed training data
+│   │   ├── train.txt                # Training data
+│   │   ├── test.txt                 # Testing data
+│   │   ├── labels.txt               # Label definitions
+│   │   └── *_box.txt               # Bounding box data
+│   └── sample/                       # Sample data and test files
+│       ├── postman_data/            # API testing data
+│       └── *.jpg, *.csv             # Sample images and OCR outputs
+├── models/                           # Model storage and logs
+│   ├── checkpoints/                  # Model checkpoints
+│   └── logs/                        # Training logs
+│       └── training_loss_may11.txt  # Training loss history
+├── configs/                          # Configuration files
+│   └── config.yaml                  # Main configuration
+├── scripts/                          # Utility scripts
+└── dependencies/                     # External dependencies
+    ├── transformers/                # Hugging Face transformers
+    ├── unilm/                      # UniLM repository with LayoutLM
+    └── layout_lm_tutorial/         # Tutorial utilities
 ```
 
 ## 🚀 Quick Start
@@ -62,9 +89,25 @@ LayoutLM_v1_finetuning/
 - Python 3.7+
 - CUDA-capable GPU (recommended)
 - Tesseract OCR
-- Required Python packages (see Installation)
+- Git
 
-### Installation
+### Automated Setup
+
+For quick setup, use the provided setup script:
+
+```bash
+# Make script executable and run
+chmod +x scripts/setup.sh
+./scripts/setup.sh
+```
+
+This script will:
+- Install all Python dependencies
+- Clone required repositories
+- Create necessary directories
+- Set up the environment
+
+### Manual Installation
 
 1. **Clone the repository:**
 ```bash
@@ -96,14 +139,15 @@ pip install jupyter notebook
 4. **Clone required repositories:**
 ```bash
 # Clone UniLM repository (contains LayoutLM implementation)
-git clone -b remove_torch_save https://github.com/NielsRogge/unilm.git content/unilm
+git clone -b remove_torch_save https://github.com/NielsRogge/unilm.git dependencies/unilm
 
 # Clone Transformers repository
-git clone https://github.com/huggingface/transformers.git content/transformers
+git clone https://github.com/huggingface/transformers.git dependencies/transformers
 
 # Install packages
-cd content/unilm/layoutlm && pip install .
+cd dependencies/unilm/layoutlm && pip install .
 cd ../../transformers && pip install .
+cd ../../..  # Return to project root
 ```
 
 ### Dataset Setup
@@ -112,12 +156,12 @@ cd ../../transformers && pip install .
 ```bash
 # Download FUNSD dataset
 wget https://guillaumejaume.github.io/FUNSD/dataset.zip
-unzip dataset.zip && mv dataset content/data && rm -rf dataset.zip __MACOSX
+unzip dataset.zip && mv dataset data/raw/funsd && rm -rf dataset.zip __MACOSX
 ```
 
 2. **For Invoice Dataset:**
-   - Place your invoice images in `content/data/training_data/images/` and `content/data/testing_data/images/`
-   - Place corresponding JSON annotations in `content/data/training_data/annotations/` and `content/data/testing_data/annotations/`
+   - Place your invoice images in `data/raw/invoices/images/`
+   - Place corresponding JSON annotations in `data/raw/invoices/annotations/`
 
 ## 🎓 Usage
 
@@ -127,18 +171,18 @@ Run the preprocessing to convert annotations to LayoutLM format:
 
 ```bash
 # For training data
-python content/unilm/layoutlm/examples/seq_labeling/preprocess.py \
-    --data_dir content/data/training_data/annotations \
+python dependencies/unilm/layoutlm/examples/seq_labeling/preprocess.py \
+    --data_dir data/raw/invoices/annotations \
     --data_split train \
-    --output_dir content/data \
+    --output_dir data/processed \
     --model_name_or_path microsoft/layoutlm-base-uncased \
     --max_len 510
 
 # For testing data
-python content/unilm/layoutlm/examples/seq_labeling/preprocess.py \
-    --data_dir content/data/testing_data/annotations \
+python dependencies/unilm/layoutlm/examples/seq_labeling/preprocess.py \
+    --data_dir data/raw/invoices/annotations \
     --data_split test \
-    --output_dir content/data \
+    --output_dir data/processed \
     --model_name_or_path microsoft/layoutlm-base-uncased \
     --max_len 510
 ```
@@ -147,7 +191,7 @@ python content/unilm/layoutlm/examples/seq_labeling/preprocess.py \
 
 ```bash
 # Extract unique labels from training data
-cat content/data/train.txt | cut -d$'\t' -f 2 | grep -v "^$"| sort | uniq > content/data/labels.txt
+cat data/processed/train.txt | cut -d$'\t' -f 2 | grep -v "^$"| sort | uniq > data/processed/labels.txt
 ```
 
 ### 3. Training
@@ -155,7 +199,7 @@ cat content/data/train.txt | cut -d$'\t' -f 2 | grep -v "^$"| sort | uniq > cont
 Open and run the training notebook:
 
 ```bash
-jupyter notebook LayoutLM_invoices.ipynb
+jupyter notebook notebooks/training/layoutlm_invoices_training.ipynb
 ```
 
 Key training parameters:
@@ -170,7 +214,7 @@ Key training parameters:
 For inference on new documents:
 
 ```bash
-jupyter notebook Inferencing.ipynb
+jupyter notebook notebooks/inference/model_inference.ipynb
 ```
 
 Or use the standalone inference script with trained model.
@@ -181,10 +225,10 @@ Start the Flask API server:
 
 ```bash
 # For basic API (fixed image path)
-python invoice_API.py
+python src/api/invoice_api.py
 
 # For image upload API
-python invoice_image_API.py
+python src/api/image_api.py
 ```
 
 API endpoints:
@@ -263,7 +307,7 @@ The model uses the following evaluation metrics:
 - **F1-Score**: Harmonic mean of precision and recall
 - **Loss**: Cross-entropy loss during training
 
-Training logs are saved in `training_loss_May11.txt`.
+Training logs are saved in `models/logs/training_loss_may11.txt`.
 
 ## 🐛 Troubleshooting
 
